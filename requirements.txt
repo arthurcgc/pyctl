@@ -1,0 +1,38 @@
+altgraph @ file:///AppleInternal/Library/BuildRoots/bd680bd8-563b-11ef-bf16-8a553ba56670/Library/Caches/com.apple.xbs/Sources/python3/altgraph-0.17.2-py2.py3-none-any.whl
+asttokens==2.4.1
+cachetools==5.5.0
+certifi==2024.8.30
+charset-normalizer==3.3.2
+decorator==5.1.1
+durationpy==0.9
+exceptiongroup==1.2.2
+executing==2.1.0
+future @ file:///AppleInternal/Library/BuildRoots/bd680bd8-563b-11ef-bf16-8a553ba56670/Library/Caches/com.apple.xbs/Sources/python3/future-0.18.2-py3-none-any.whl
+google-auth==2.35.0
+idna==3.10
+ipython==8.18.1
+jedi==0.19.1
+kubernetes==31.0.0
+macholib @ file:///AppleInternal/Library/BuildRoots/bd680bd8-563b-11ef-bf16-8a553ba56670/Library/Caches/com.apple.xbs/Sources/python3/macholib-1.15.2-py2.py3-none-any.whl
+matplotlib-inline==0.1.7
+oauthlib==3.2.2
+parso==0.8.4
+pexpect==4.9.0
+prompt_toolkit==3.0.48
+ptyprocess==0.7.0
+pure_eval==0.2.3
+pyasn1==0.6.1
+pyasn1_modules==0.4.1
+Pygments==2.18.0
+python-dateutil==2.9.0.post0
+PyYAML==6.0.2
+requests==2.32.3
+requests-oauthlib==2.0.0
+rsa==4.9
+six @ file:///AppleInternal/Library/BuildRoots/bd680bd8-563b-11ef-bf16-8a553ba56670/Library/Caches/com.apple.xbs/Sources/python3/six-1.15.0-py2.py3-none-any.whl
+stack-data==0.6.3
+traitlets==5.14.3
+typing_extensions==4.12.2
+urllib3==2.2.3
+wcwidth==0.2.13
+websocket-client==1.8.0
